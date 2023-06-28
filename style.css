@@ -74,7 +74,14 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+  background-color: lightgreen;
+}
+.aside1 {
+  background-color: lightgrey;
+  margin-top: 20px;
+}
+.asideAchat{
+  margin-top: 50px;
 }
 
 #customers {
@@ -104,7 +111,8 @@ aside {
 
 /* Style the footer */
 footer {
-  background-color: #777;
+ /* background-color: #777; */
+  background-color: #04AA6D;
   padding: 10px;
   text-align: center;
   color: black;
